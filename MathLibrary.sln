@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BML", "BML\BML.vcxproj", "{B1C3EEE0-67DC-4A05-9A59-406D9D351045}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMLCalc", "BMLCalc\BMLCalc.vcxproj", "{4B643463-7E68-48E3-93CF-99461C673FBF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMLGraphical", "BMLGraphical\BMLGraphical.vcxproj", "{25B8BEF5-48FF-43AD-BD87-66E515E1DB44}"
+	ProjectSection(ProjectDependencies) = postProject
+		{21E56A68-5DDF-4028-AD34-6724D91BBE44} = {21E56A68-5DDF-4028-AD34-6724D91BBE44}
+		{B1C3EEE0-67DC-4A05-9A59-406D9D351045} = {B1C3EEE0-67DC-4A05-9A59-406D9D351045}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLMGraphical", "GLMGraphical\GLMGraphical.vcxproj", "{C11FB8EC-EA58-420D-8619-67B802965F5B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicalEngine", "GraphicalEngine\GraphicalEngine.vcxproj", "{21E56A68-5DDF-4028-AD34-6724D91BBE44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C3EEE0-67DC-4A05-9A59-406D9D351045}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1C3EEE0-67DC-4A05-9A59-406D9D351045}.Debug|Win32.Build.0 = Debug|Win32
+		{B1C3EEE0-67DC-4A05-9A59-406D9D351045}.Release|Win32.ActiveCfg = Release|Win32
+		{B1C3EEE0-67DC-4A05-9A59-406D9D351045}.Release|Win32.Build.0 = Release|Win32
+		{4B643463-7E68-48E3-93CF-99461C673FBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B643463-7E68-48E3-93CF-99461C673FBF}.Debug|Win32.Build.0 = Debug|Win32
+		{4B643463-7E68-48E3-93CF-99461C673FBF}.Release|Win32.ActiveCfg = Release|Win32
+		{4B643463-7E68-48E3-93CF-99461C673FBF}.Release|Win32.Build.0 = Release|Win32
+		{25B8BEF5-48FF-43AD-BD87-66E515E1DB44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25B8BEF5-48FF-43AD-BD87-66E515E1DB44}.Debug|Win32.Build.0 = Debug|Win32
+		{25B8BEF5-48FF-43AD-BD87-66E515E1DB44}.Release|Win32.ActiveCfg = Release|Win32
+		{25B8BEF5-48FF-43AD-BD87-66E515E1DB44}.Release|Win32.Build.0 = Release|Win32
+		{C11FB8EC-EA58-420D-8619-67B802965F5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C11FB8EC-EA58-420D-8619-67B802965F5B}.Debug|Win32.Build.0 = Debug|Win32
+		{C11FB8EC-EA58-420D-8619-67B802965F5B}.Release|Win32.ActiveCfg = Release|Win32
+		{C11FB8EC-EA58-420D-8619-67B802965F5B}.Release|Win32.Build.0 = Release|Win32
+		{21E56A68-5DDF-4028-AD34-6724D91BBE44}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21E56A68-5DDF-4028-AD34-6724D91BBE44}.Debug|Win32.Build.0 = Debug|Win32
+		{21E56A68-5DDF-4028-AD34-6724D91BBE44}.Release|Win32.ActiveCfg = Release|Win32
+		{21E56A68-5DDF-4028-AD34-6724D91BBE44}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
