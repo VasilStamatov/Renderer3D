@@ -1,0 +1,41 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_g_l_m_graphical_2_main_8cpp.html#a41343cc84865ff49177fb336a416e3fc" title="InitSDL" alt="" coords="155,120,219,147"/>
+<area shape="rect" id="node7" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="332,157,507,184"/>
+<area shape="rect" id="node8" href="$classcamera.html#ad89c9caa2088e97fe110257839d2f41a" title="camera::SetPosition" alt="" coords="349,360,489,387"/>
+<area shape="rect" id="node9" href="$classcamera.html#a77c835dd7377ad97e5821524470fd1ec" title="camera::SetTarget" alt="" coords="355,411,484,437"/>
+<area shape="rect" id="node10" href="$_g_l_m_graphical_2_main_8cpp.html#a14bd119f64adb91a73a17e42805349aa" title="HandleEvents" alt="" coords="137,512,238,539"/>
+<area shape="rect" id="node13" href="$class_mesh.html#a35007297e4336f4dbcd353bd907ddd14" title="Mesh::GetRotation" alt="" coords="354,563,485,589"/>
+<area shape="rect" id="node16" href="$_s_d_l__render_8h.html#a473b4abbb29c60e98876eb68ad850f79" title="Clear the current rendering target with the drawing color. " alt="" coords="125,689,250,716"/>
+<area shape="rect" id="node17" href="$class_mesh.html#af640cb7fbe7ec85d59102b2ebb20ccd9" title="Mesh::SetRotation" alt="" coords="122,740,253,767"/>
+<area shape="rect" id="node18" href="$_g_l_m_graphical_2_main_8cpp.html#a090db050027339c651ddac8b8966a444" title="ComputeTransformMatrix" alt="" coords="104,639,271,665"/>
+<area shape="rect" id="node32" href="$_g_l_m_graphical_2_main_8cpp.html#a8c19f329797f609b4f470965bf5f7f94" title="Render" alt="" coords="156,259,219,285"/>
+<area shape="rect" id="node35" href="$struct_color.html#a9a742cbe9f9f4037f5d9f4e81a9b2428" title="Color::Color" alt="" coords="142,791,233,817"/>
+<area shape="rect" id="node36" href="$_s_d_l__render_8h.html#a48fa9d24395f3610746988ecca2aae86" title="Update the screen with rendering performed. " alt="" coords="117,841,257,868"/>
+<area shape="rect" id="node37" href="$_g_l_m_graphical_2_main_8cpp.html#a94e2d1e7156f62abf7bb13020746919a" title="Close" alt="" coords="160,1076,215,1103"/>
+<area shape="rect" id="node3" href="$_s_d_l_8h.html#a8fc8d35348d7c74bad8392d776c937b8" title="SDL_Init" alt="" coords="384,5,455,32"/>
+<area shape="rect" id="node4" href="$_s_d_l__error_8h.html#ac88e1aa404a8f94aaee4ad6b94547647" title="SDL_GetError" alt="" coords="368,208,471,235"/>
+<area shape="rect" id="node5" href="$_s_d_l__video_8h.html#a42565088bdb739a5353fd67abbe235d2" title="Create a window with the specified position, dimensions, and flags. " alt="" coords="350,56,489,83"/>
+<area shape="rect" id="node6" href="$_s_d_l__render_8h.html#a8db1ba55c15a3477d71f6a793cee54f1" title="Create a 2D rendering context for a window. " alt="" coords="347,107,491,133"/>
+<area shape="rect" id="node11" href="$_s_d_l__events_8h.html#acfa517963c25f8b71acc6b56721c5d9b" title="Polls for currently pending events. " alt="" coords="365,512,473,539"/>
+<area shape="rect" id="node12" href="$_s_d_l__mouse_8h.html#a1561f413546c0e4f5f44a8f094926575" title="Retrieve the current state of the mouse. " alt="" coords="347,461,492,488"/>
+<area shape="rect" id="node14" href="$classcamera.html#afc33cca026f6abc7f4e582fa4365ce96" title="camera::GetTarget" alt="" coords="354,613,485,640"/>
+<area shape="rect" id="node15" href="$classcamera.html#ae9f36cda5fa1aee4d2c9916f9d6b8e9c" title="camera::GetPosition" alt="" coords="349,664,490,691"/>
+<area shape="rect" id="node19" href="$class_b_m_l_1_1_matrix4x4.html#a4b56fab8a914934540ad64bddc3ff659" title="Converts to lookat matrix (for the view matrix) " alt="" coords="338,949,501,976"/>
+<area shape="rect" id="node25" href="$class_b_m_l_1_1_matrix4x4.html#aad2eb84b08555d0e8daafa59671a1b5f" title="BML::Matrix4x4::Perspective" alt="" coords="325,1000,514,1027"/>
+<area shape="rect" id="node27" href="$class_b_m_l_1_1_static_functions.html#ad6e40beed62cd9333b19d47578fa57e5" title="BML::StaticFunctions\l::Euler" alt="" coords="345,715,493,757"/>
+<area shape="rect" id="node28" href="$class_b_m_l_1_1_quaternion.html#a66db0b03a0abb5ca486aabc28ae79961" title="BML::Quaternion::GetMatrix4D" alt="" coords="319,781,520,808"/>
+<area shape="rect" id="node30" href="$class_b_m_l_1_1_matrix4x4.html#a4e3239baa1d7bc97597a592aa09bd546" title="Converts to translation matrix. " alt="" coords="327,883,511,925"/>
+<area shape="rect" id="node31" href="$class_mesh.html#a049101f6b7e553f0cb68cf8b092ee0b2" title="Mesh::GetPosition" alt="" coords="354,832,485,859"/>
+<area shape="rect" id="node20" href="$class_b_m_l_1_1_matrix4x4.html#accbf55ad1221e6c9c603d7f866784820" title="Converts to identity matrix. " alt="" coords="575,865,771,892"/>
+<area shape="rect" id="node21" href="$class_b_m_l_1_1_vector3_d.html#acec9abcbe8fc6ca0486c0ba2ece08787" title="BML::Vector3D::Normalize" alt="" coords="584,916,761,943"/>
+<area shape="rect" id="node23" href="$class_b_m_l_1_1_static_functions.html#ad8dc71c09efd351d73ab36325f7d6a77" title="BML::StaticFunctions\l::Cross" alt="" coords="599,967,747,1009"/>
+<area shape="rect" id="node24" href="$class_b_m_l_1_1_static_functions.html#aa366f1cdb4722e560fb0a31b804d779a" title="BML::StaticFunctions::Dot" alt="" coords="585,1033,761,1060"/>
+<area shape="rect" id="node22" href="$class_b_m_l_1_1_vector3_d.html#a3c202b99d9843a1b3b6aa9eea7abc281" title="BML::Vector3D::GetMagnitude" alt="" coords="825,916,1025,943"/>
+<area shape="rect" id="node26" href="$class_b_m_l_1_1_matrix4x4.html#aa66c6a3391ada6444356e9b9a0d984a5" title="Converts to zero matrix. " alt="" coords="583,1084,762,1111"/>
+<area shape="rect" id="node29" href="$class_b_m_l_1_1_quaternion.html#a389dd517b65b5565e9335902bf43e3f9" title="BML::Quaternion::GetMagnitude" alt="" coords="568,781,777,808"/>
+<area shape="rect" id="node33" href="$_g_l_m_graphical_2_main_8cpp.html#a53e5ad9cd2bd8e37e2782e4892f95968" title="ProjectTo2D" alt="" coords="373,309,466,336"/>
+<area shape="rect" id="node34" href="$_s_d_l__render_8h.html#a6d50e252f15e0c6c14639bdd343285fd" title="Draw a line on the current rendering target. " alt="" coords="345,259,493,285"/>
+<area shape="rect" id="node38" href="$_s_d_l__render_8h.html#ab1f096742fa9c882c3f1555ee62c4ac2" title="Destroy the rendering context for a window and free associated textures. " alt="" coords="344,1051,495,1077"/>
+<area shape="rect" id="node39" href="$_s_d_l__video_8h.html#a72609295a4faee0587268339ccff80c2" title="Destroy a window. " alt="" coords="347,1101,492,1128"/>
+<area shape="rect" id="node40" href="$_s_d_l_8h.html#afdabaf714781099083592051f2d9ac11" title="SDL_Quit" alt="" coords="380,1152,459,1179"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GraphicalEngine::Renderer::ClearScreen" name="GraphicalEngine::Renderer::ClearScreen">
+<area shape="rect" id="node2" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="231,5,405,32"/>
+<area shape="rect" id="node3" href="$_s_d_l__render_8h.html#a473b4abbb29c60e98876eb68ad850f79" title="Clear the current rendering target with the drawing color. " alt="" coords="255,56,381,83"/>
+</map>

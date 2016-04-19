@@ -1,0 +1,7 @@
+<map id="InitSDL" name="InitSDL">
+<area shape="rect" id="node2" href="$_s_d_l_8h.html#a8fc8d35348d7c74bad8392d776c937b8" title="SDL_Init" alt="" coords="169,5,240,32"/>
+<area shape="rect" id="node3" href="$_s_d_l__error_8h.html#ac88e1aa404a8f94aaee4ad6b94547647" title="SDL_GetError" alt="" coords="153,56,256,83"/>
+<area shape="rect" id="node4" href="$_s_d_l__video_8h.html#a42565088bdb739a5353fd67abbe235d2" title="Create a window with the specified position, dimensions, and flags. " alt="" coords="135,107,274,133"/>
+<area shape="rect" id="node5" href="$_s_d_l__render_8h.html#a8db1ba55c15a3477d71f6a793cee54f1" title="Create a 2D rendering context for a window. " alt="" coords="133,157,277,184"/>
+<area shape="rect" id="node6" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="117,208,292,235"/>
+</map>

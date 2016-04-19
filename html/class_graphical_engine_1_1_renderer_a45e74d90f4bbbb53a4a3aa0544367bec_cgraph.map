@@ -1,0 +1,5 @@
+<map id="GraphicalEngine::Renderer::Create" name="GraphicalEngine::Renderer::Create">
+<area shape="rect" id="node2" href="$_s_d_l__render_8h.html#a8db1ba55c15a3477d71f6a793cee54f1" title="Create a 2D rendering context for a window. " alt="" coords="246,5,390,32"/>
+<area shape="rect" id="node3" href="$_s_d_l__error_8h.html#ac88e1aa404a8f94aaee4ad6b94547647" title="SDL_GetError" alt="" coords="267,56,369,83"/>
+<area shape="rect" id="node4" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="231,107,405,133"/>
+</map>

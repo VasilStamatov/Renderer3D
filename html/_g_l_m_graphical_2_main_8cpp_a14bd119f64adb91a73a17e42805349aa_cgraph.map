@@ -1,0 +1,9 @@
+<map id="HandleEvents" name="HandleEvents">
+<area shape="rect" id="node2" href="$_s_d_l__events_8h.html#acfa517963c25f8b71acc6b56721c5d9b" title="Polls for currently pending events. " alt="" coords="173,5,281,32"/>
+<area shape="rect" id="node3" href="$_s_d_l__mouse_8h.html#a1561f413546c0e4f5f44a8f094926575" title="Retrieve the current state of the mouse. " alt="" coords="155,56,300,83"/>
+<area shape="rect" id="node4" href="$class_mesh.html#a35007297e4336f4dbcd353bd907ddd14" title="Mesh::GetRotation" alt="" coords="162,107,293,133"/>
+<area shape="rect" id="node5" href="$classcamera.html#afc33cca026f6abc7f4e582fa4365ce96" title="camera::GetTarget" alt="" coords="162,157,293,184"/>
+<area shape="rect" id="node6" href="$classcamera.html#a77c835dd7377ad97e5821524470fd1ec" title="camera::SetTarget" alt="" coords="163,208,292,235"/>
+<area shape="rect" id="node7" href="$classcamera.html#ae9f36cda5fa1aee4d2c9916f9d6b8e9c" title="camera::GetPosition" alt="" coords="157,259,298,285"/>
+<area shape="rect" id="node8" href="$classcamera.html#ad89c9caa2088e97fe110257839d2f41a" title="camera::SetPosition" alt="" coords="157,309,297,336"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BML::StaticFunctions::NLerp" name="BML::StaticFunctions::NLerp">
+<area shape="rect" id="node2" href="$class_b_m_l_1_1_static_functions.html#aff65a490c9d9fcd091df0a00e9ada7ae" title="BML::StaticFunctions\l::Lerp" alt="" coords="216,5,364,47"/>
+<area shape="rect" id="node3" href="$class_b_m_l_1_1_static_functions.html#a0ee1048edf0375a72981b46fe916f2e8" title="BML::StaticFunctions\l::Clamp" alt="" coords="453,31,601,72"/>
+<area shape="rect" id="node4" href="$class_b_m_l_1_1_vector3_d.html#acec9abcbe8fc6ca0486c0ba2ece08787" title="BML::Vector3D::Normalize" alt="" coords="201,122,379,149"/>
+<area shape="rect" id="node5" href="$class_b_m_l_1_1_vector3_d.html#a3c202b99d9843a1b3b6aa9eea7abc281" title="BML::Vector3D::GetMagnitude" alt="" coords="427,122,627,149"/>
+</map>
