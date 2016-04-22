@@ -1,6 +1,0 @@
-<map id="GraphicalEngine::Renderer::UpdateScreen" name="GraphicalEngine::Renderer::UpdateScreen">
-<area shape="rect" id="node2" href="$_s_d_l__render_8h.html#a48fa9d24395f3610746988ecca2aae86" title="Update the screen with rendering performed. " alt="" coords="249,5,389,32"/>
-<area shape="rect" id="node3" href="$class_b_m_l_1_1_vector3_d.html#acec9abcbe8fc6ca0486c0ba2ece08787" title="BML::Vector3D::Normalize" alt="" coords="231,56,408,83"/>
-<area shape="rect" id="node5" href="$class_b_m_l_1_1_static_functions.html#aa366f1cdb4722e560fb0a31b804d779a" title="BML::StaticFunctions::Dot" alt="" coords="231,107,407,133"/>
-<area shape="rect" id="node4" href="$class_b_m_l_1_1_vector3_d.html#a3c202b99d9843a1b3b6aa9eea7abc281" title="BML::Vector3D::GetMagnitude" alt="" coords="456,56,656,83"/>
-</map>

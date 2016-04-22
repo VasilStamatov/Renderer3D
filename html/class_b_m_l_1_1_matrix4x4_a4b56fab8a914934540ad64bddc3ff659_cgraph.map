@@ -1,7 +1,0 @@
-<map id="BML::Matrix4x4::LookAt" name="BML::Matrix4x4::LookAt">
-<area shape="rect" id="node2" href="$class_b_m_l_1_1_matrix4x4.html#accbf55ad1221e6c9c603d7f866784820" title="Converts to identity matrix. " alt="" coords="216,5,412,32"/>
-<area shape="rect" id="node3" href="$class_b_m_l_1_1_vector3_d.html#acec9abcbe8fc6ca0486c0ba2ece08787" title="BML::Vector3D::Normalize" alt="" coords="225,56,403,83"/>
-<area shape="rect" id="node5" href="$class_b_m_l_1_1_static_functions.html#ad8dc71c09efd351d73ab36325f7d6a77" title="BML::StaticFunctions\l::Cross" alt="" coords="240,107,388,149"/>
-<area shape="rect" id="node6" href="$class_b_m_l_1_1_static_functions.html#aa366f1cdb4722e560fb0a31b804d779a" title="BML::StaticFunctions::Dot" alt="" coords="226,173,402,200"/>
-<area shape="rect" id="node4" href="$class_b_m_l_1_1_vector3_d.html#a3c202b99d9843a1b3b6aa9eea7abc281" title="BML::Vector3D::GetMagnitude" alt="" coords="460,56,660,83"/>
-</map>

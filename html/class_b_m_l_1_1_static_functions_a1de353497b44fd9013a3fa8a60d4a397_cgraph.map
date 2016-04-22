@@ -1,5 +1,0 @@
-<map id="BML::StaticFunctions::Angle" name="BML::StaticFunctions::Angle">
-<area shape="rect" id="node2" href="$class_b_m_l_1_1_quaternion.html#a7e7f5b95f43e3fd0adc52f51337f73c4" title="BML::Quaternion::Inverse" alt="" coords="201,31,369,57"/>
-<area shape="rect" id="node3" href="$class_b_m_l_1_1_quaternion.html#ae0176b18fa6d4ee5af23daa982f9f6dd" title="BML::Quaternion::Conjugate" alt="" coords="429,5,615,32"/>
-<area shape="rect" id="node4" href="$class_b_m_l_1_1_quaternion.html#a389dd517b65b5565e9335902bf43e3f9" title="BML::Quaternion::GetMagnitude" alt="" coords="417,56,627,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="BML::Matrix4x4::Transpose" name="BML::Matrix4x4::Transpose">
-<area shape="rect" id="node2" href="$class_graphical_engine_1_1_renderer.html#afff81ddfcc3c789274a0e2d4dfa3f287" title="GraphicalEngine::Renderer\l::DrawTriangle" alt="" coords="236,5,413,47"/>
-<area shape="rect" id="node3" href="$class_graphical_engine_1_1_renderer.html#a014955596ca9c3913a7185b2f5a0dc40" title="GraphicalEngine::Renderer\l::Render" alt="" coords="461,5,639,47"/>
-<area shape="rect" id="node4" href="$class_main_program.html#a791358a94f8a228a18ee4d136cb058b3" title="MainProgram::Run" alt="" coords="687,13,817,39"/>
-<area shape="rect" id="node5" href="$_b_m_l_graphical_2_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="865,13,916,39"/>
-</map>

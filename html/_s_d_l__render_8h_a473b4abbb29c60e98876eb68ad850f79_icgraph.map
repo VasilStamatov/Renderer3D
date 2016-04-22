@@ -1,6 +1,0 @@
-<map id="SDL_RenderClear" name="SDL_RenderClear">
-<area shape="rect" id="node2" href="$_g_l_m_graphical_2_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="242,5,293,32"/>
-<area shape="rect" id="node3" href="$class_graphical_engine_1_1_renderer.html#a558244e2345ffada72058276b4cbe106" title="GraphicalEngine::Renderer\l::ClearScreen" alt="" coords="179,57,356,98"/>
-<area shape="rect" id="node4" href="$class_main_program.html#a791358a94f8a228a18ee4d136cb058b3" title="MainProgram::Run" alt="" coords="404,64,535,91"/>
-<area shape="rect" id="node5" href="$_b_m_l_graphical_2_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="583,64,633,91"/>
-</map>

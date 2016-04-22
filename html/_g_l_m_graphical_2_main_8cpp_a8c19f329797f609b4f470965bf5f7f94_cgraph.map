@@ -1,6 +1,0 @@
-<map id="Render" name="Render">
-<area shape="rect" id="node2" href="$_g_l_m_graphical_2_main_8cpp.html#a53e5ad9cd2bd8e37e2782e4892f95968" title="ProjectTo2D" alt="" coords="157,5,250,32"/>
-<area shape="rect" id="node3" href="$_s_d_l__render_8h.html#aa26234da40f87f4b16d715564242a341" title="Set the color used for drawing operations (Rect, Line and Clear). " alt="" coords="116,56,291,83"/>
-<area shape="rect" id="node4" href="$_s_d_l__render_8h.html#a6d50e252f15e0c6c14639bdd343285fd" title="Draw a line on the current rendering target. " alt="" coords="129,107,277,133"/>
-<area shape="rect" id="node5" href="$_s_d_l__error_8h.html#ac88e1aa404a8f94aaee4ad6b94547647" title="SDL_GetError" alt="" coords="152,157,255,184"/>
-</map>

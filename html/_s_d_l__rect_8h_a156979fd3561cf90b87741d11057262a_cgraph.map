@@ -1,7 +1,0 @@
-<map id="SDL_RectEquals" name="SDL_RectEquals">
-<area shape="rect" id="node2" href="$_s_d_l__rect_8h.html#a191ec0b069421d4a36304b475697e847" title="Determine whether two rectangles intersect. " alt="" coords="192,5,336,32"/>
-<area shape="rect" id="node3" href="$_s_d_l__rect_8h.html#aff8e3dd3b1a25443cd7c8cf02a087290" title="Calculate the intersection of two rectangles. " alt="" coords="199,56,329,83"/>
-<area shape="rect" id="node4" href="$_s_d_l__rect_8h.html#a659f2c25335202888408c95195823f9c" title="Calculate the union of two rectangles. " alt="" coords="207,107,321,133"/>
-<area shape="rect" id="node5" href="$_s_d_l__rect_8h.html#afcbb58dbba760b9e6fdb4b5d1ece015c" title="Calculate a minimal rectangle enclosing a set of points. " alt="" coords="195,157,333,184"/>
-<area shape="rect" id="node6" href="$_s_d_l__rect_8h.html#acdabdcbeb7b7083f94a092daa26ce069" title="Calculate the intersection of a rectangle and line segment. " alt="" coords="175,208,353,235"/>
-</map>

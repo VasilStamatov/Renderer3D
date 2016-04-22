@@ -1,7 +1,0 @@
-<map id="SDL_CreateWindow" name="SDL_CreateWindow">
-<area shape="rect" id="node2" href="$_g_l_m_graphical_2_main_8cpp.html#a41343cc84865ff49177fb336a416e3fc" title="InitSDL" alt="" coords="245,5,309,32"/>
-<area shape="rect" id="node4" href="$class_graphical_engine_1_1_window.html#adbbc1119b2718bcb0d1da566d3abc66f" title="GraphicalEngine::Window\l::Create" alt="" coords="192,57,363,98"/>
-<area shape="rect" id="node3" href="$_g_l_m_graphical_2_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="451,5,501,32"/>
-<area shape="rect" id="node5" href="$class_main_program.html#a791358a94f8a228a18ee4d136cb058b3" title="MainProgram::Run" alt="" coords="411,64,541,91"/>
-<area shape="rect" id="node6" href="$_b_m_l_graphical_2_main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="589,64,640,91"/>
-</map>
