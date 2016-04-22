@@ -1,0 +1,8 @@
+﻿  Main.cpp
+Main.cpp(199): warning C4305: 'argument' : truncation from 'double' to 'float'
+Main.cpp(259): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Main.cpp(263): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Main.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  GLMGraphical.vcxproj -> C:\Users\Vasil\Projects\Renderer3D\Release\GLMGraphical.exe
